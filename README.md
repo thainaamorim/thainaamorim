@@ -71,7 +71,7 @@ Em formação na área de desenvolvimento de TI, curso “Programador do Zero XP
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainaamorim&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
